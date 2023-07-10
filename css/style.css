@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #67b5dd;
+    color: white;
+}
+
+.navbar a{
+    color: white;
+}
+
+#reproductor{
+    display: none;
+}
+
+#signal{
+    color: red;
+}
+
